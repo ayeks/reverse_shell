@@ -1,10 +1,12 @@
 # Reverse Shell Container
 
+[![size](https://img.shields.io/github/languages/code-size/ayeks/reverse_shell?label=github%20code%20size)](https://github.com/ayeks/reverse_shell)
 [![pulls](https://img.shields.io/docker/pulls/ayeks/reverse_shell)](https://hub.docker.com/r/ayeks/reverse_shell)
 [![automated](https://img.shields.io/docker/cloud/automated/ayeks/reverse_shell)](https://hub.docker.com/r/ayeks/reverse_shell)
 [![image-size](https://img.shields.io/docker/image-size/ayeks/reverse_shell)](https://hub.docker.com/r/ayeks/reverse_shell)
+[![license](https://img.shields.io/github/license/ayeks/reverse_shell)](https://github.com/ayeks/reverse_shell/blob/master/LICENSE)
 
-Run a container which connects to a server with a reverse shell.
+Run a container which connects back to a server with a reverse shell.
 
 ## Usage of the remote shell container
 
